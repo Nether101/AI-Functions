@@ -1,1 +1,1 @@
-OPENAI_API_KEY="" # Get yours from:  https://beta.openai.com/account/api-keys
+OPENAI_API_KEY=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
